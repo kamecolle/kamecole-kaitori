@@ -8,5 +8,12 @@
       "price_noshrink": 22500
     }
   ],
-  "loose": []
+  "loose": [
+    {
+      "name": "30th CELEBRATION",
+      "order": 1791527469599,
+      "price_periperi": 25000,
+      "price_unified": 20000
+    }
+  ]
 }
