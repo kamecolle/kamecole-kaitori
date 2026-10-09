@@ -18,6 +18,12 @@
       "order": 1791529265620,
       "price_shrink": 8500,
       "price_noshrink": 7000
+    },
+    {
+      "name": "ムニキスゼロ",
+      "order": 1791530593184,
+      "price_shrink": 8000,
+      "price_noshrink": 7000
     }
   ],
   "loose": [
