@@ -42,6 +42,12 @@
       "order": 1791531842438,
       "price_shrink": 15000,
       "price_noshrink": 14500
+    },
+    {
+      "name": "メガシンフォニア",
+      "order": 1791532026080,
+      "price_shrink": 7000,
+      "price_noshrink": 6300
     }
   ],
   "loose": [
