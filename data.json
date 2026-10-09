@@ -20,16 +20,22 @@
       "price_noshrink": 7000
     },
     {
+      "name": "ムニキスゼロ",
+      "order": 1791530593184,
+      "price_shrink": 8000,
+      "price_noshrink": 7000
+    },
+    {
       "name": "ニンジャスピナー",
       "order": 1791530837377,
       "price_shrink": 8000,
       "price_noshrink": 7000
     },
     {
-      "name": "ムニキスゼロ",
-      "order": 1791531189225,
-      "price_shrink": 8000,
-      "price_noshrink": 7000
+      "name": "MEGAドリームex",
+      "order": 1791531254059,
+      "price_shrink": 12000,
+      "price_noshrink": 10500
     }
   ],
   "loose": [
