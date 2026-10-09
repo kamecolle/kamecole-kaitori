@@ -36,6 +36,12 @@
       "order": 1791531254059,
       "price_shrink": 12000,
       "price_noshrink": 10500
+    },
+    {
+      "name": "インフェルノX",
+      "order": 1791531842438,
+      "price_shrink": 15000,
+      "price_noshrink": 14500
     }
   ],
   "loose": [
