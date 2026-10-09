@@ -48,6 +48,12 @@
       "order": 1791532026080,
       "price_shrink": 7000,
       "price_noshrink": 6300
+    },
+    {
+      "name": "メガブレイブ",
+      "order": 1791532117821,
+      "price_shrink": 7500,
+      "price_noshrink": 6500
     }
   ],
   "loose": [
