@@ -1,67 +1,139 @@
 {
-  "single": [],
-  "box": [
-    {
-      "name": "30th CELEBRATION",
-      "order": 1791522590088,
-      "price_shrink": 24500,
-      "price_noshrink": 22500
-    },
-    {
-      "name": "ストームエメラルダ",
-      "order": 1791529143019,
-      "price_shrink": 9500,
-      "price_noshrink": 8500
-    },
-    {
-      "name": "アビスアイ",
-      "order": 1791529265620,
-      "price_shrink": 8500,
-      "price_noshrink": 7000
-    },
-    {
-      "name": "ムニキスゼロ",
-      "order": 1791530593184,
-      "price_shrink": 8000,
-      "price_noshrink": 7000
-    },
-    {
-      "name": "ニンジャスピナー",
-      "order": 1791530837377,
-      "price_shrink": 8000,
-      "price_noshrink": 7000
-    },
-    {
-      "name": "MEGAドリームex",
-      "order": 1791531254059,
-      "price_shrink": 12000,
-      "price_noshrink": 10500
-    },
-    {
-      "name": "インフェルノX",
-      "order": 1791531842438,
-      "price_shrink": 15000,
-      "price_noshrink": 14500
-    },
-    {
-      "name": "メガシンフォニア",
-      "order": 1791532026080,
-      "price_shrink": 7000,
-      "price_noshrink": 6300
-    },
-    {
-      "name": "メガブレイブ",
-      "order": 1791532117821,
-      "price_shrink": 7500,
-      "price_noshrink": 6500
-    }
+  "titles": [
+    "ポケモン",
+    "ワンピースカード"
   ],
-  "loose": [
-    {
-      "name": "30th CELEBRATION",
-      "order": 1791527469599,
-      "price_periperi": 25000,
-      "price_unified": 20000
+  "current": "ポケモン",
+  "settings": {
+    "ポケモン": {
+      "boxLabel1": "シュリンク付き",
+      "boxLabel2": "シュリンクなし",
+      "showLoose": true,
+      "showPack": true
+    },
+    "ワンピースカード": {
+      "boxLabel1": "テープ付き",
+      "boxLabel2": "テープカット",
+      "showLoose": false,
+      "showPack": false
     }
-  ]
+  },
+  "data": {
+    "ポケモン": {
+      "single": [],
+      "box": [
+        {
+          "name": "30th CELEBRATION",
+          "order": 1791522590088,
+          "price_shrink": 24500,
+          "price_noshrink": 22500
+        },
+        {
+          "name": "ストームエメラルダ",
+          "order": 1791529143019,
+          "price_shrink": 9500,
+          "price_noshrink": 8500
+        },
+        {
+          "name": "アビスアイ",
+          "order": 1791529265620,
+          "price_shrink": 8500,
+          "price_noshrink": 7000
+        },
+        {
+          "name": "ムニキスゼロ",
+          "order": 1791530593184,
+          "price_shrink": 8000,
+          "price_noshrink": 7000
+        },
+        {
+          "name": "ニンジャスピナー",
+          "order": 1791530837377,
+          "price_shrink": 8000,
+          "price_noshrink": 7000
+        },
+        {
+          "name": "MEGAドリームex",
+          "order": 1791531254059,
+          "price_shrink": 12000,
+          "price_noshrink": 10500
+        },
+        {
+          "name": "インフェルノX",
+          "order": 1791531842438,
+          "price_shrink": 15000,
+          "price_noshrink": 14500
+        },
+        {
+          "name": "メガシンフォニア",
+          "order": 1791532026080,
+          "price_shrink": 7000,
+          "price_noshrink": 6300
+        },
+        {
+          "name": "メガブレイブ",
+          "order": 1791532117821,
+          "price_shrink": 7500,
+          "price_noshrink": 6500
+        },
+        {
+          "name": "ホワイトフレア　デラックス",
+          "order": 1791600056468,
+          "price_shrink": null,
+          "price_noshrink": null
+        },
+        {
+          "name": "ブラックボルト　デラックス",
+          "order": 1791600473691,
+          "price_shrink": null,
+          "price_noshrink": null
+        },
+        {
+          "name": "ホワイトフレア",
+          "order": 1791600506859,
+          "price_shrink": null,
+          "price_noshrink": null
+        },
+        {
+          "name": "ブラックボルト",
+          "order": 1791601875162,
+          "price_shrink": null,
+          "price_noshrink": null
+        }
+      ],
+      "loose": [
+        {
+          "name": "30th CELEBRATION",
+          "order": 1791527469599,
+          "price_periperi": 25000,
+          "price_unified": 20000
+        },
+        {
+          "name": "ストームエメラルダ",
+          "order": 1791598124430,
+          "price_periperi": 6500,
+          "price_unified": 5500
+        },
+        {
+          "name": "アビスアイ",
+          "order": 1791598148913,
+          "price_periperi": 6000,
+          "price_unified": 5000
+        },
+        {
+          "name": "ニンジャスピナー",
+          "order": 1791598363396,
+          "price_periperi": 6500,
+          "price_unified": 5800
+        }
+      ],
+      "pack": []
+    },
+    "ワンピースカード": {
+      "single": [],
+      "box": [],
+      "loose": [],
+      "pack": []
+    }
+  }
 }
