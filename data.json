@@ -79,67 +79,67 @@
         {
           "name": "ホワイトフレア　デラックス",
           "order": 1791600056468,
-          "price_shrink": null,
+          "price_shrink": 21500,
           "price_noshrink": null
         },
         {
           "name": "ブラックボルト　デラックス",
           "order": 1791600473691,
-          "price_shrink": null,
+          "price_shrink": 23000,
           "price_noshrink": null
         },
         {
           "name": "ホワイトフレア",
           "order": 1791600506859,
-          "price_shrink": null,
+          "price_shrink": 17500,
           "price_noshrink": null
         },
         {
           "name": "ブラックボルト",
           "order": 1791601875162,
-          "price_shrink": null,
+          "price_shrink": 19500,
           "price_noshrink": null
         },
         {
           "name": "ロケット団の栄光",
           "order": 1791610153458,
-          "price_shrink": null,
+          "price_shrink": 20000,
           "price_noshrink": null
         },
         {
           "name": "熱風のアリーナ",
           "order": 1791610188682,
-          "price_shrink": null,
+          "price_shrink": 14000,
           "price_noshrink": null
         },
         {
           "name": "バトルパートナーズ",
           "order": 1791610212917,
-          "price_shrink": null,
+          "price_shrink": 10000,
           "price_noshrink": null
         },
         {
           "name": "テラスタルフェスex",
           "order": 1791610222235,
-          "price_shrink": null,
+          "price_shrink": 18000,
           "price_noshrink": null
         },
         {
           "name": "超電ブレイカー",
           "order": 1791610467267,
-          "price_shrink": null,
+          "price_shrink": 23000,
           "price_noshrink": null
         },
         {
           "name": "楽園ドラゴーナ",
           "order": 1791610478248,
-          "price_shrink": null,
+          "price_shrink": 13000,
           "price_noshrink": null
         },
         {
           "name": "ステラミラクル",
           "order": 1791619137304,
-          "price_shrink": null,
+          "price_shrink": 9500,
           "price_noshrink": null
         }
       ],
