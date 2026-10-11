@@ -25,13 +25,13 @@
         {
           "name": "30th CELEBRATION",
           "order": 1791522590088,
-          "price_shrink": 24500,
-          "price_noshrink": 22500
+          "price_shrink": 24000,
+          "price_noshrink": 22000
         },
         {
           "name": "ストームエメラルダ",
           "order": 1791529143019,
-          "price_shrink": 9500,
+          "price_shrink": 10000,
           "price_noshrink": 8500
         },
         {
@@ -122,7 +122,7 @@
           "name": "テラスタルフェスex",
           "order": 1791610222235,
           "price_shrink": 18000,
-          "price_noshrink": null
+          "price_noshrink": 15000
         },
         {
           "name": "超電ブレイカー",
